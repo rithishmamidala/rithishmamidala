@@ -7,8 +7,8 @@
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
 - 🌱 I’m currently a student in MLR Institute of Technology; 
+- 👨🏽‍💻 I’m currently Learning Unit Testing,Sprong Boot, Spring, MangoDB,PostgreSQL, Non Relational DataBase(NoSQL), openAPI.
 - 🤔 My interests are  problem solving, coding, web development, etc..;
 - 💼 I’m pursuing a Bachelor's degree in stream of Information Technology;
 - 💬 Ask me about anything, I am happy to help;
