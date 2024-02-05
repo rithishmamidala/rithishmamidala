@@ -1,25 +1,13 @@
 ### Hi there, Rithish This side👋
 
-<!--
-**rithishmamidala/rithishmamidala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 &nbsp;About Me
+- 🤔 &nbsp; Recently graduated and eagerly anticipating opportunities to begin my professional journey.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ### 🛠 &nbsp;Languages and Tools
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap5](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
