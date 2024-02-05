@@ -33,11 +33,3 @@
 ---
 
 
-### 🤝🏻 &nbsp;Connect with Me 
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/mamidala-ritish-a8a069241/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
-<a href="https://www.instagram.com/r_it_is_love/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-shubham.ul-red"></a>
-<a href="https://x.com/mamidala_ritish?t=3BuedAdV5_qTgfd0VRO10A&s=09"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
-</p>
