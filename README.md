@@ -11,7 +11,7 @@
 - 👨🏽‍💻 I’m currently Learning Unit Testing,Sprong Boot, Spring, MangoDB,PostgreSQL, Non Relational DataBase(NoSQL), openAPI.
 - 🤔 My interests are  problem solving, coding, web development, etc..;
 - 💼 I’m pursuing a Bachelor's degree in stream of Information Technology;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything via rithishrockzz@gmail.com, I am happy to help;
 
 ### 🛠 &nbsp;Languages and Tools
 
