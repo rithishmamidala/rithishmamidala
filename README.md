@@ -31,4 +31,13 @@
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/playlist/2Rh2lD7ToO2Ojv9Ko60Awd)
 
 ---
-### ⚙️ &nbsp;GitHub Analytics
+
+
+### 🤝🏻 &nbsp;Connect with Me 
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mamidala-ritish-a8a069241/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
+<a href="https://www.instagram.com/r_it_is_love/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-shubham.ul-red"></a>
+<a href="https://twitter.com/shubham_ul"><img alt="Twitter" src="https://x.com/mamidala_ritish?t=3BuedAdV5_qTgfd0VRO10A&s=09"></a>
+</p>
