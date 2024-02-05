@@ -8,7 +8,7 @@
  
 
 - 🌱 I’m currently a student in MLR Institute of Technology; 
-- 👨🏽‍💻 I’m currently Learning Unit Testing,Sprong Boot, Spring, MangoDB,PostgreSQL, Non Relational DataBase(NoSQL), openAPI.
+- 👨🏽‍💻 I’m currently Learning Unit Testing,Spring Boot, Spring, MangoDB,PostgreSQL, Non Relational DataBase(NoSQL), openAPI.
 - 🤔 My interests are  problem solving, coding, web development, etc..;
 - 💼 I’m pursuing a Bachelor's degree in stream of Information Technology;
 - 💬 Ask me about anything via rithishrockzz@gmail.com, I am happy to help;
@@ -25,5 +25,10 @@
   ![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ---
+---
 
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/playlist/2Rh2lD7ToO2Ojv9Ko60Awd)
+
+---
 ### ⚙️ &nbsp;GitHub Analytics
