@@ -29,3 +29,7 @@
 ## 🎧 Spotify Playing
 
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/playlist/2Rh2lD7ToO2Ojv9Ko60Awd)
+
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
