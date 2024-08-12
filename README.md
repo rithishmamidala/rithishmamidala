@@ -8,7 +8,12 @@
 
 
 - 🌱 Developer at UST
-- 👨🏽‍💻 Currently Engaged In: Crafting responsive user interfaces with HTML, CSS, and JavaScript, building interactive web applications with React, developing robust backend solutions using Java and Spring Boot Microservices, and managing data with MongoDB and PostgreSQL.
+- 👨🏽‍💻 Currently Engaged In:
+
+Crafting responsive and dynamic user interfaces with HTML, CSS, and JavaScript.
+Building seamless, interactive web applications using React.
+Developing robust backend solutions with Java and Spring Boot Microservices.
+Managing and optimizing data with MongoDB and PostgreSQL.
 - 🤔 My interests are  problem solving, coding, web development, etc..;
 - 💼 I’m pursuing a Bachelor's degree in stream of Information Technology;
 - 💬 Ask me about anything via rithishrockzz@gmail.com, I am happy to help;
