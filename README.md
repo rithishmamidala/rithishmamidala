@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 💼 Developer at UST
+- 💼 **Developer at UST**
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="margin-right: 20px;" />
 
@@ -10,7 +10,7 @@
   - Crafting responsive and dynamic user interfaces with **HTML, CSS, and JavaScript**.
   - Building seamless, interactive web applications using **React**.
   - Developing robust backend solutions with **Java** and **Spring Boot Microservices**.
-  - Managing and optimizing data with **MongoDB** and **PostgreSQL**.
+  - Managing and optimizing data with **MongoDB** and **MySQL**.
 - 🤔 **My Interests:** Problem-solving, coding, web development, and more.
 - 💬 **Contact Me:** Ask me about anything via [rithishrockzz@gmail.com](mailto:rithishrockzz@gmail.com). I’m happy to help!
 
