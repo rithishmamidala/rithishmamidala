@@ -6,12 +6,11 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- ## 👨🏻‍💻 Currently Engaged In:
-
-- Crafting responsive and dynamic user interfaces with **HTML, CSS, and JavaScript**.
-- Building seamless, interactive web applications using **React**.
-- Developing robust backend solutions with **Java** and **Spring Boot Microservices**.
-- Managing and optimizing data with **MongoDB** and **PostgreSQL**.
+- 🌱 **Currently Engaged In:**
+  - Crafting responsive and dynamic user interfaces with **HTML, CSS, and JavaScript**.
+  - Building seamless, interactive web applications using **React**.
+  - Developing robust backend solutions with **Java** and **Spring Boot Microservices**.
+  - Managing and optimizing data with **MongoDB** and **PostgreSQL**.
 - 🤔 **My Interests:** Problem-solving, coding, web development, and more.
 - 💬 **Contact Me:** Ask me about anything via [rithishrockzz@gmail.com](mailto:rithishrockzz@gmail.com). I’m happy to help!
 
