@@ -5,10 +5,10 @@
 
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
- 
+
 
 - 🌱 Developer at UST
-- 👨🏽‍💻 I’m currently Learning Unit Testing,Spring Boot, Spring, MangoDB,PostgreSQL, Non Relational DataBase(NoSQL), openAPI.
+- 👨🏽‍💻 Currently Engaged In: Crafting responsive user interfaces with HTML, CSS, and JavaScript, building interactive web applications with React, developing robust backend solutions using Java and Spring Boot Microservices, and managing data with MongoDB and PostgreSQL.
 - 🤔 My interests are  problem solving, coding, web development, etc..;
 - 💼 I’m pursuing a Bachelor's degree in stream of Information Technology;
 - 💬 Ask me about anything via rithishrockzz@gmail.com, I am happy to help;
